@@ -59,3 +59,4 @@ def CreateFile(dest):
 dest="C:\\Users\\tejus\\PycharmProjects\\myproject\\MMN-master\sample.txt"
 
 CreateFile(dest)
+print("Hello World")
