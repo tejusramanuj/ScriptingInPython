@@ -1,1 +1,5 @@
-print("Hello World")
+def someString(newString):
+    print(newString)
+    return
+
+someString("Tejus")
